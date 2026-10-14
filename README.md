@@ -22,5 +22,9 @@ I am learning how to:
 - Keep projects synchronized
 
 
+<<<<<<< HEAD
 
 Project Status: Main Branch Selection
+=======
+Project Status: Feature Branch Version
+>>>>>>> feature-day37
