@@ -12,3 +12,11 @@ This project is part of my cloud engineering learning journey.
 -Docker 
 - AWS Fundamentals
 -Linux Commands
+
+
+## Day 35 - GitHub Collaboration
+
+I am learning how to:
+- Push local changes to GitHub
+- Pull remote changes
+- Keep projects synchronized
