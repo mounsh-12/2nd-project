@@ -20,3 +20,7 @@ I am learning how to:
 - Push local changes to GitHub
 - Pull remote changes
 - Keep projects synchronized
+
+
+
+Project Status: Main Branch Selection
