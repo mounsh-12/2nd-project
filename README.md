@@ -28,3 +28,10 @@ Project Status: Main Branch Selection
 =======
 Project Status: Feature Branch Version
 >>>>>>> feature-day37
+
+
+Day 38: This change is temporarily saved using Git stash.
+
+
+## Version History
+- v1.0.0: First practice release
